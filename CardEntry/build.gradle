@@ -49,9 +49,9 @@ ext {
     libraryDescription = 'CardEntry'
 
     // Your github repo link
-    siteUrl = 'https://github.com/ifiok/CreditCardEntry'
-    gitUrl = 'https://github.com/ifiok/CreditCardEntry.git'
-    githubRepository= 'ifiok/CreditCardEntry'
+    siteUrl = 'https://github.com/ifiok/CardEntry'
+    gitUrl = 'https://github.com/ifiok/CardEntry.git'
+    githubRepository= 'ifiok/CardEntry'
 
     libraryVersion = '1.0.1'
 
